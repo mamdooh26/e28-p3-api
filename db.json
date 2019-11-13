@@ -3,7 +3,8 @@
   "recipes": [
     {
       "id": 1,
-      "recipeBy": "Cranberry Stuffed Turkey Breasts",
+      "name": "Cranberry Stuffed Turkey Breasts",
+      "recipeBy": "Esther Nelson",
       "ingredients": [
         "1 (12 ounce) package herb-seasoned bread stuffing mix",
         "2 skinless boneless turkey breasts",
