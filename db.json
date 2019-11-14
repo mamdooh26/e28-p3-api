@@ -29,6 +29,15 @@
         "1 tablespoon olive oil, or as needed",
         "2 (12 ounce) boneless rib eye steaks, about 1-inch thick"
       ]
+    },
+    {
+      "id": 3,
+      "name": "Yummy Roll Ups",
+      "recipeBy": "Courtney McDonald",
+      "ingredients": [
+        "5 dill pickle spears",
+        "1 (8 ounce) package cream cheese, softened"
+      ]
     }
   ]
 }
