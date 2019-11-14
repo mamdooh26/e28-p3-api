@@ -13,6 +13,22 @@
         "6 lettuce leaves",
         "1/2 cup pecan halves"
       ]
+    },
+     {
+      "id": 2,
+      "name": "Grilled Tuscan Rib Steak",
+      "recipeBy": "Chateau Ste Michelle",
+      "ingredients": [
+        "1 1/2 teaspoons dried thyme",
+        "1 teaspoon dried oregano",
+        "2 teaspoons smoked paprika",
+        "1/4 teaspoon cayenne pepper",
+        "1 teaspoon coarsely ground black pepper",
+        "1 teaspoon brown sugar",
+        "2 teaspoons salt",
+        "1 tablespoon olive oil, or as needed",
+        "2 (12 ounce) boneless rib eye steaks, about 1-inch thick"
+      ]
     }
   ]
 }
